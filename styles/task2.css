@@ -1,0 +1,36 @@
+#container1 {
+    background-color: #E3E3E3;
+    padding: 15px; 
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#container2 {
+    background-color: lightgray;
+    margin-left: 25px;
+    width: 50%;
+}
+
+#container3 {
+    background-color: #E3FFFE;
+    margin: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    visibility: hidden;
+}
+
+#butt_open{
+    width: 150px;
+    height: 50px;
+    margin: 25px;
+}
+
+#butt_close{
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+}
+
